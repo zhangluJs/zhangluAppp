@@ -10,5 +10,5 @@ require("./View/register");
 
 
 SPA.config({//默认配置
-	 indexView: 'guide'//默认刚开始进入的首页
+	 indexView: 'index'//默认刚开始进入的首页
 })
