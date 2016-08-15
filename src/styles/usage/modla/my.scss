@@ -1,0 +1,26 @@
+@import "../../lib/widget/yo-dialog";
+@include yo-dialog(
+	$name:a,
+	$width:1rem,
+	$height:200px
+){
+	.bd{
+		overflow:hidden!important;
+		padding-top:0.35rem;
+		input{
+			width:100%!important;
+			border:none!important;
+			line-height:0.35rem;
+			width:90%!important;
+		}
+		input:first-child{
+			border-bottom:1px solid #ccc!important;
+		}
+	}
+	footer{
+		button{
+			background:#0cc140!important;
+			color:#fff!important;
+		}	
+	}
+}

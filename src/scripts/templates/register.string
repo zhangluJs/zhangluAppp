@@ -1,0 +1,15 @@
+<div class="yo-list yo-list-inset">
+    <label class="item item-input" id="title">
+        <i>取消</i>
+        <b class="item_b" action-type="yes">确定</b>
+    </label>
+    <label class="item item-input">
+        <input type="text" class="yo-input" placeholder="手机号" />
+    </label>
+    <label class="item item-input">
+        <input type="password" class="yo-input" placeholder="密码" />
+    </label>
+    <label class="item item-input">
+        <input type="text" class="yo-input" placeholder="昵称" />
+    </label>
+</div>

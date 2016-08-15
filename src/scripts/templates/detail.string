@@ -1,0 +1,19 @@
+<div>
+	<header>
+		<ul>
+			<li class="yo-ico" action-type="goto.index">&#xe745;</li>
+			<li>
+				<h1>详情</h1>
+			</li>
+			<li class="yo-ico"></li>
+		</ul>
+	</header>
+	<section ms-visible="!isShow">
+		<img ms-src="img">
+		<h2>{{title}}</h2>
+		<p>{{details}}</p>
+	</section>
+	<div class="yo-loading" ms-visible="isShow">
+    	<div class="inner"><i class="yo-ico"></i></div>
+	</div>
+</div>

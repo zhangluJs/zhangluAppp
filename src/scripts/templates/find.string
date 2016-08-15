@@ -1,0 +1,57 @@
+<div class="m_find">
+	<header>
+		<ul>
+			<li class="yo-ico">&#xe745;</li>
+			<li>
+				<h1>发现</h1>
+			</li>
+			<li class="yo-ico"></li>
+		</ul>
+	</header>
+	<div class="search">
+		<div>
+			<input type="text" placeholder="请输入昵称"/>
+		</div>
+		<button id="cancel"  action-type="cancel" >取消</button>
+	</div>
+	<nav>
+		<ul>
+			<li>
+				<div>
+					<img src="images/Pikachu.jpg"/>
+				</div>
+				<div>
+					<h2>朴智星</h2>
+					<p>朴智星：韩国战中国需做好准备</p>
+				</div>
+				<div>
+					<button>关注</button>
+				</div>
+			</li>
+			<li>
+				<div>
+					<img src="images/Pikachu.jpg"/>
+				</div>
+				<div>
+					<h2>朴智星</h2>
+					<p>朴智星：韩国战中国需做好准备</p>
+				</div>
+				<div>
+					<button>关注</button>
+				</div>
+			</li>
+			<li>
+				<div>
+					<img src="images/Pikachu.jpg"/>
+				</div>
+				<div>
+					<h2>朴智星</h2>
+					<p>朴智星：韩国战中国需做好准备</p>
+				</div>
+				<div>
+					<button>关注</button>
+				</div>
+			</li>
+		</ul>
+	</nav>
+</div>
